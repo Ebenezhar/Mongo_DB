@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Title1",
+        "release_date": "2011",
+        "Genre": [
+            "Action",
+            "Thriller"
+        ],
+        "stats": {
+            "budget": "100000",
+            "revenue": "200000"
+        },
+        "cast_crew": [
+            {
+                "name": "Name2"
+            }
+        ]
+    },
+    {
+        "title": "Title2",
+        "release_date": "2013",
+        "Genre": [
+            "Action",
+            "Fantasy"
+        ],
+        "stats": {
+            "budget": "300000",
+            "revenue": "500000"
+        },
+        "cast_crew": [
+            {
+                "name": "Name2"
+            }
+        ]
+    },
+    {
+        "title": "Mask",
+        "release_date": "1995",
+        "Genre": [
+            "Action",
+            "Fantasy",
+            "Comedy"
+        ],
+        "stats": {
+            "budget": "500000",
+            "revenue": "500000"
+        },
+        "cast_crew": [
+            {
+                "name": "Jim carrey"
+            }
+        ]
+    }
+]
+
