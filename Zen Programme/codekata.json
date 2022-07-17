@@ -1,0 +1,37 @@
+[
+    {
+        "Question": "question1",
+        "Answer": "Answer1",
+        "Date": new Date(),
+        "students-solved":[
+            'ObjectId("62d2b9651e483becbeb5131d")',
+            'ObjectId("62d2b9651e483becbeb5131e")',
+            'ObjectId("62d2b9651e483becbeb51320")',
+            'ObjectId("62d2b9651e483becbeb51321")',
+            'ObjectId("62d2b9651e483becbeb51322")']
+    },
+    {
+        "Question": "question2",
+        "Answer": "Answer2",
+        "Date": new Date(),
+        "students-solved":[
+            'ObjectId("62d2b9651e483becbeb5131d")',
+            'ObjectId("62d2b9651e483becbeb5131e")',
+            'ObjectId("62d2b9651e483becbeb51320")',
+            'ObjectId("62d2b9651e483becbeb51321")',
+            'ObjectId("62d2b9651e483becbeb51322")'
+        ]
+    },
+    {
+        "Question": "question3",
+        "Answer": "Answer3",
+        "Date": new Date(),
+        "students-solved":[
+            'ObjectId("62d2b9651e483becbeb51317")',
+            'ObjectId("62d2b9651e483becbeb51316")',
+            'ObjectId("62d2b9651e483becbeb51318")',
+            'ObjectId("62d2b9651e483becbeb51319")',
+            'ObjectId("62d2b9651e483becbeb5131a")'
+        ]
+    }
+]

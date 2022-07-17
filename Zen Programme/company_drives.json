@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Company Name1",
+        "Date": new Date(),
+        "studentsAttended":[
+            ObjectId("62d2b9651e483becbeb5131d"),
+            ObjectId("62d2b9651e483becbeb5131e"),
+            ObjectId("62d2b9651e483becbeb51320"),
+            ObjectId("62d2b9651e483becbeb51321")
+        ]
+    },
+    {
+        "name":"Company Name2",
+        "Date": new Date(),
+        "studentsAttended":[
+            ObjectId("62d2b9651e483becbeb51320"),
+            ObjectId("62d2b9651e483becbeb51321"),
+            ObjectId("62d2b9651e483becbeb51322"),
+            ObjectId("62d2b9651e483becbeb51323")
+        ]
+    },
+    {
+        "name":"Company Name3",
+        "Date": new Date(),
+        "studentsAttended":[
+            ObjectId("62d2b9651e483becbeb5131d"),
+            ObjectId("62d2b9651e483becbeb5131e"),
+            ObjectId("62d2b9651e483becbeb51320"),
+            ObjectId("62d2b9651e483becbeb51322"),
+            ObjectId("62d2b9651e483becbeb51325"),
+            ObjectId("62d2b9651e483becbeb51326")   
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "Name":"Topic 1",
+        "Date": new Date(),
+        "mentor": ObjectId("62d2bb711e483becbeb51327"),
+        "studentsAttended":[
+            ObjectId("62d2b9651e483becbeb5131d"),
+            ObjectId("62d2b9651e483becbeb5131e"),
+            ObjectId("62d2b9651e483becbeb51320"),
+            ObjectId("62d2b9651e483becbeb51321")
+        ]        
+    },
+    {
+        "Name":"Topic 2",
+        "Date": new Date(),
+        "mentor": ObjectId("62d2bb711e483becbeb51328"),
+        "studentsAttended":[
+            ObjectId("62d2b9651e483becbeb51323"),
+            ObjectId("62d2b9651e483becbeb51324"),
+            ObjectId("62d2b9651e483becbeb51325"),
+            ObjectId("62d2b9651e483becbeb51326")
+        ]        
+    }
+]

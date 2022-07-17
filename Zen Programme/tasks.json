@@ -1,0 +1,32 @@
+[
+    {
+        "Name":"Task 1",
+        "Date" : new Date(),
+        "students-submitted":[
+            ObjectId("62d2b9651e483becbeb5131d"),
+            ObjectId("62d2b9651e483becbeb5131e"),
+            ObjectId("62d2b9651e483becbeb51320"),
+            ObjectId("62d2b9651e483becbeb51321")
+        ]
+    },
+    {
+        "Name":"Task 2",
+        "Date" : new Date(),
+        "students-submitted":[
+            ObjectId("62d2b9651e483becbeb5131d"),
+            ObjectId("62d2b9651e483becbeb5131e"),
+            ObjectId("62d2b9651e483becbeb51320"),
+            ObjectId("62d2b9651e483becbeb51321")
+        ]
+    },
+    {
+        "Name":"Task 3",
+        "Date" : new Date(),
+        "students-submitted":[
+            ObjectId("62d2b9651e483becbeb51319"),
+            ObjectId("62d2b9651e483becbeb5131a"),
+            ObjectId("62d2b9651e483becbeb5131c"),
+            ObjectId("62d2b9651e483becbeb5131b")
+        ]
+    }
+]
