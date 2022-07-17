@@ -1,0 +1,20 @@
+[
+    {
+        "Date": new Date(),
+        "Topic": ObjectId("62d2cfdf1e483becbeb5132e"),
+        "mentor": ObjectId("62d2bb711e483becbeb51327"), 
+        "studentsAttended":['ObjectId("62d2b9651e483becbeb5131d")',
+        'ObjectId("62d2b9651e483becbeb5131e")',
+        'ObjectId("62d2b9651e483becbeb51320")',
+        'ObjectId("62d2b9651e483becbeb51321")'] 
+    },
+    {
+        "Date": new Date(),
+        "Topic": ObjectId("62d2cfdf1e483becbeb5132f"),
+        "mentor": ObjectId("62d2bb711e483becbeb51328"), 
+        "studentsAttended":['ObjectId("62d2b9651e483becbeb5131d")',
+        'ObjectId("62d2b9651e483becbeb5131e")',
+        'ObjectId("62d2b9651e483becbeb51320")',
+        'ObjectId("62d2b9651e483becbeb51321")'] 
+    }
+]

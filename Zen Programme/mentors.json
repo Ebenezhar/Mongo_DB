@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Mentor Name1",
+        "contact": "12356",
+        "age": 32,
+        "mail-id": "asdf@gmail.com",
+        "students-assigned": [
+            ' ObjectId("62d2b9651e483becbeb51313")',
+            ' ObjectId("62d2b9651e483becbeb51314")',
+            ' ObjectId("62d2b9651e483becbeb51315")'
+        ]
+    },
+    {
+        "name": "Mentor Name2",
+        "contact": "12648",
+        "age": 35,
+        "mail-id": "zxcv@gmail.com",
+        "students-assigned": [
+        'ObjectId("62d2b9651e483becbeb51317")',
+        'ObjectId("62d2b9651e483becbeb51316")',
+        'ObjectId("62d2b9651e483becbeb51318")',
+        'ObjectId("62d2b9651e483becbeb51319")',
+        'ObjectId("62d2b9651e483becbeb5131a")',
+        'ObjectId("62d2b9651e483becbeb5131c")',
+        'ObjectId("62d2b9651e483becbeb5131b")'
+        ]
+    },
+    {
+        "name": "Mentor Name3",
+        "contact": "25896",
+        "age": 36,
+        "mail-id": "sdfg@gmail.com",
+        "students-assigned": [
+        'ObjectId("62d2b9651e483becbeb5131d")',
+        'ObjectId("62d2b9651e483becbeb5131e")',
+        'ObjectId("62d2b9651e483becbeb51320")',
+        'ObjectId("62d2b9651e483becbeb51321")',
+        'ObjectId("62d2b9651e483becbeb51322")',
+        'ObjectId("62d2b9651e483becbeb51323")',
+        'ObjectId("62d2b9651e483becbeb51324")',
+        'ObjectId("62d2b9651e483becbeb51325")',
+        'ObjectId("62d2b9651e483becbeb51326")'
+        ]
+    }
+]
